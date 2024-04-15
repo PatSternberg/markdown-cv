@@ -6,7 +6,6 @@ title: Isaac Newtons's CV
 Software developer based in London
 
 <div id="webaddress">
-<a>+44 7497 204905</a>
 <a href="patricksternberg123@gmail.com">patricksternberg123@gmail.com</a>
 <a href="https://www.linkedin.com/in/patrick-skipworth-a87a20145">LinkedIn</a>
 <a href="https://github.com/PatSternberg">GitHub</a>
