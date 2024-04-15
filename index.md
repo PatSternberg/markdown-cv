@@ -11,6 +11,7 @@ Software developer based in London
 <a href="https://github.com/PatSternberg">GitHub</a>
 <a href="https://www.codewars.com/users/PatSkip">Codewars</a>
 <a href="https://github.com/PatSternberg/markdown-cv.git">See this GitHub repo</a>
+</div>
 
 ## ABOUT ME
 I am a creative and resourceful software developer with a background in web development and creative industries. I have experience in Python, JavaScript, Swift and agile scrum project management, alongside many other commonly used technologies. Building on a previous solid foundational knowledge of web development and project management skills gained from previous roles, I bring a unique blend of technical proficiency and strong communication skills to the table. I am excited to bring these skills to a Software Developer role as I complete my move into tech.
