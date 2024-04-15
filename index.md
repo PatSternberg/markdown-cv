@@ -19,11 +19,11 @@ Software developer based in London
 
 </div>
 
-## ABOUT ME
+## 👀 ABOUT ME
 
 I am a creative and resourceful software developer with a background in web development and creative industries. I have experience in Python, JavaScript, Swift and agile scrum project management, alongside many other commonly used technologies. Building on a previous solid foundational knowledge of web development and project management skills gained from previous roles, I bring a unique blend of technical proficiency and strong communication skills to the table. I am excited to bring these skills to a Software Developer role as I complete my move into tech.
 
-## PROJECTS
+## 💾 PROJECTS
 
 ### VenBnB 
 
@@ -57,7 +57,7 @@ Tech used: Python, pytest, pyenv, SQL, Flask
 
 Skills demonstrated: Backend data validation
 
-## PROFESSIONAL EXPERIENCE
+## 🛠️ PROFESSIONAL EXPERIENCE
 
 `January 2024–Present`
 __Junior Developer__
@@ -104,7 +104,7 @@ Relevant Skills Gained:
 
 Project Management: Managed multiple projects simultaneously, ensuring timely delivery and quality and working with a variety of stakeholders, including large institutions such as the Natural History Museum and Gatsby Foundation.
 
-## EDUCATION & OTHER
+## 🧠 EDUCATION & OTHER
 
 ### Education
 
