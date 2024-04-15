@@ -13,13 +13,16 @@ Software developer based in London
 <a href="https://www.codewars.com/users/PatSkip">Codewars</a>
 <a href="https://github.com/PatSternberg/markdown-cv.git">See this GitHub repo</a>
 
-## Currently
+## ABOUT ME
+I am a creative and resourceful software developer with a background in web development and creative industries. I have experience in Python, JavaScript, Swift and agile scrum project management, alongside many other commonly used technologies. Building on a previous solid foundational knowledge of web development and project management skills gained from previous roles, I bring a unique blend of technical proficiency and strong communication skills to the table. I am excited to bring these skills to a Software Developer role as I complete my move into tech.
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### PROJECTS
+| PROJECT             | DESCRIPTION                                                                         | TECH                                                   | SKILLS DEMONSTRATED                                                                                     |
+|---------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| VenBnB              | Full-stack program for storing and booking properties                               | Python, pytest, pyenv, SQL, Flask                      | Agile scrum workflow, Git workflow, TTD, certificates, full-stack Python development                    |
+| Acebook             | Collaborative project to develop social media site with distinct front- and backend | JSX/React, Go, PostgreSQL, vite, vitest, Surge, Render | Agile scrum workflow, TLS trust and identify, Git workflow, front and backend collaboration, deployment |
+| Pokedex             | Database using 3rd party API                                                        | Python, pytest, pyenv, Flask                           | 3rd party APIs                                                                                          |
+| Password Validator2 | Program to validate and store user passwords                                        | Python, pytest, pyenv, SQL, Flask                      | Backend data validation                                                                                 |
 
 
 ### Research interests
