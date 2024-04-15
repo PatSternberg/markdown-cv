@@ -27,27 +27,27 @@ I am a creative and resourceful software developer with a background in web deve
 
 ### VenBnB 
 
-- Full stack program for storing and booking properties
+Full stack program for storing and booking properties
 
-- Tech used: Python, pytest, pyenv, SQL, Flask
+Tech used: Python, pytest, pyenv, SQL, Flask
 
-- Skills demonstrated: Agile scrum workflow, Git workflow, TTD, certificates, full-stack Python development
+Skills demonstrated: Agile scrum workflow, Git workflow, TTD, certificates, full-stack Python development
 
 ### Acebook
 
-- Collaborative project to develop social media site with distinct front- and backend
+Collaborative project to develop social media site with distinct front- and backend
 
-- Tech used: JSX/React, Go, PostgreSQL, vite, vitest, Surge, Render
+Tech used: JSX/React, Go, PostgreSQL, vite, vitest, Surge, Render
 
-- Skills demonstrated: Agile scrum workflow, TLS trust and identify, Git workflow, front and backend collaboration, deployment
+Skills demonstrated: Agile scrum workflow, TLS trust and identify, Git workflow, front and backend collaboration, deployment
 
 ### Pokedex
 
-- Database using 3rd party API
+Database using 3rd party API
 
-- Tech used: Python, pytest, pyenv, Flask
+Tech used: Python, pytest, pyenv, Flask
 
-- Skills demonstrated: 3rd party APIs
+Skills demonstrated: 3rd party APIs
 
 ### Password Validator2
 
