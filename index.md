@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: 🖋️ Patrick Skipworth's CV
 ---
 # Patrick Skipworth
 Software developer based in London
