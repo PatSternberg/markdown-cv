@@ -27,78 +27,82 @@ I am a creative and resourceful software developer with a background in web deve
 
 ### VenBnB 
 
-Full stack program for storing and booking properties
+- Full stack program for storing and booking properties
 
-Tech used: Python, pytest, pyenv, SQL, Flask | Skills demonstrated: Agile scrum workflow, Git workflow, TTD, certificates, full-stack Python development
+- Tech used: Python, pytest, pyenv, SQL, Flask
+
+- Skills demonstrated: Agile scrum workflow, Git workflow, TTD, certificates, full-stack Python development
 
 ### Acebook
 
-Collaborative project to develop social media site with distinct front- and backend
+- Collaborative project to develop social media site with distinct front- and backend
 
-Tech used: JSX/React, Go, PostgreSQL, vite, vitest, Surge, Render | Skills demonstrated: Agile scrum workflow, TLS trust and identify, Git workflow, front and backend collaboration, deployment
+- Tech used: JSX/React, Go, PostgreSQL, vite, vitest, Surge, Render
+
+- Skills demonstrated: Agile scrum workflow, TLS trust and identify, Git workflow, front and backend collaboration, deployment
 
 ### Pokedex
 
-Database using 3rd party API
+- Database using 3rd party API
 
-Tech used: Python, pytest, pyenv, Flask | Skills demonstrated: 3rd party APIs
+- Tech used: Python, pytest, pyenv, Flask
+
+- Skills demonstrated: 3rd party APIs
 
 ### Password Validator2
 
-Program to validate and store user passwords
+- Program to validate and store user passwords
 
-Tech used: Python, pytest, pyenv, SQL, Flask  | Skills demonstrated: Backend data validation
+- Tech used: Python, pytest, pyenv, SQL, Flask
+
+- Skills demonstrated: Backend data validation
 
 ## PROFESSIONAL EXPERIENCE
 
-### Junior Developer
-
 `January 2024–Present`
-__Makers, London__
+__Junior Developer__
+Makers, London
 
-#### Skills Acquired:
+Skills Acquired:
 
 Proficiency in Python, JavaScript and Swift: Developed proficiency in Python, JavaScript and Swift through intensive coursework and hands-on projects, such as a password manager application.
 
-**Database management:** Learned foundational SQL practices, using Postgresql and psycopg to manipulate a database of property information for a social media application
+Database management: Learned foundational SQL practices, using Postgresql and psycopg to manipulate a database of property information for a social media application
 
-**Web Development Skills: **Acquired skills in frontend and backend web development, including HTML, Flask, Django, Postman, Docker, RDS and SCSS while developing a bookings application.
+Web Development Skills: Acquired skills in frontend and backend web development, including HTML, Flask, Django, Postman, Docker, RDS and SCSS while developing a bookings application.
 
-**Problem-Solving Abilities: **Gained experience in solving coding problems through unit testing and debugging, using pytest, jest, vitest, xctest and built-in debugger software to improve outcomes.
+Problem-Solving Abilities: Gained experience in solving coding problems through unit testing and debugging, using pytest, jest, vitest, xctest and built-in debugger software to improve outcomes.
 
-**Version Control:** Learned to use version control systems such as Git alongside setting up and managing virtual environments through pipenv, enabling collaboration and code management.
+Version Control: Learned to use version control systems such as Git alongside setting up and managing virtual environments through pipenv, enabling collaboration and code management.
 
-**Agile Methodologies:** Utilised agile development practices during team projects, engaging in collaborative development and code reviews.
-
-### Guidance, Information, and Content Adviser / Publishing Editor
+Agile Methodologies: Utilised agile development practices during team projects, engaging in collaborative development and code reviews.
 
 `2022–2024`
-__The National Archives, London__
+__Guidance, Information, and Content Adviser / Publishing Editor__
+The National Archives, London
 
-#### Responsibilities:
+Responsibilities:
 
 Reviewed, maintained, and updated The National Archives' web guidance and training offerings for government departments and organisations. This involved creating new web content aligned to government accessibility guidelines and legal requirements, using Google Analytics to monitor user experience, and facilitating on-site and remote learning sessions on relevant topics for government departments. Maintained and developed new web services related to legislation.
 
-#### Relevant Skills Gained:
+Relevant Skills Gained:
 
-**Web content creation and management:** Developed and maintained web content, newsletters and training materials. Led a department-wide move from PDF to HTML content.
+Web content creation and management: Developed and maintained web content, newsletters and training materials. Led a department-wide move from PDF to HTML content.
 
-**User-Centric Approach:** Improved content through incorporating user preferences understood through data analysis and feedback and aligning with accessibility standards.
+User-Centric Approach: Improved content through incorporating user preferences understood through data analysis and feedback and aligning with accessibility standards.
 
-**Agile scrum:** Worked in agile framework with a tech dev team on rollout of new legislation drafting software.
-
-### Executive Editor / Managing Editor
+Agile scrum: Worked in agile framework with a tech dev team on rollout of new legislation drafting software.
 
 `2020-2022`
-__What on Earth Publishing Ltd, London__
+__Executive Editor / Managing Editor__
 
-#### Responsibilities:
+Responsibilities:
 
 Proposed, commissioned and managed various book publications, working with diverse teams and clients to prepare innovative and marketable children’s book titles. I oversaw ten to twenty creative projects per year across different media, rolling out an Agile environment framework to improve collaboration and accountability both within the company and with external stakeholders.
 
-#### Relevant Skills Gained:
+Relevant Skills Gained:
 
-**Project Management:** Managed multiple projects simultaneously, ensuring timely delivery and quality and working with a variety of stakeholders, including large institutions such as the Natural History Museum and Gatsby Foundation.
+Project Management: Managed multiple projects simultaneously, ensuring timely delivery and quality and working with a variety of stakeholders, including large institutions such as the Natural History Museum and Gatsby Foundation.
 
 ## EDUCATION & OTHER
 
@@ -110,7 +114,7 @@ UCL, UK - BA, Classics and Classical Languages
 
 ### Other
 
-My interest in languages, which informed my university education choices, also led to the writing of my own children’s book which was published in 2020. Literally: Amazing Words and Where They Come From received glowing reviews from multiple publications and was supported with a marketing campaign including an interview on the Just Imagine podcast. This gave me a chance to talk at length about my love of languages, and first hand experience of being a creative involved in a marketing campaign.
+My interest in languages, which informed my university education choices, also led to the writing of my own children’s book which was published in 2020. <a href="https://justimagine.co.uk/podcast/patrick-skipworth/">Literally: Amazing Words and Where They Come From</a> received glowing reviews from multiple publications and was supported with a marketing campaign including an interview on the Just Imagine podcast. This gave me a chance to talk at length about my love of languages, and first hand experience of being a creative involved in a marketing campaign.
 
 I also enjoy video game and modding them, and have recently gained some experience working in a Windows developer workflow with Chocolatey and Oh My Powershell while developing a mod to complement my MacOS developer experience through Makers Academy.
 
