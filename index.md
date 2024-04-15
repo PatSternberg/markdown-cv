@@ -51,11 +51,11 @@ Skills demonstrated: 3rd party APIs
 
 ### Password Validator2
 
-- Program to validate and store user passwords
+Program to validate and store user passwords
 
-- Tech used: Python, pytest, pyenv, SQL, Flask
+Tech used: Python, pytest, pyenv, SQL, Flask
 
-- Skills demonstrated: Backend data validation
+Skills demonstrated: Backend data validation
 
 ## PROFESSIONAL EXPERIENCE
 
