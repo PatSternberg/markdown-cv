@@ -8,13 +8,13 @@ Software developer based in London
 <div id="webaddress">
   
 <a href="patricksternberg123@gmail.com">patricksternberg123@gmail.com</a>
-
+|
 <a href="https://www.linkedin.com/in/patrick-skipworth-a87a20145">LinkedIn</a>
-
+|
 <a href="https://github.com/PatSternberg">GitHub</a>
-
+|
 <a href="https://www.codewars.com/users/PatSkip">Codewars</a>
-
+|
 <a href="https://github.com/PatSternberg/markdown-cv.git">See this GitHub repo</a>
 
 </div>
