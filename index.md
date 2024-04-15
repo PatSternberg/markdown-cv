@@ -5,12 +5,6 @@ title: Isaac Newtons's CV
 # Patrick Skipworth
 Software developer based in London
 
-+44 7497 204905
-patricksternberg123@gmail.com | https://www.linkedin.com/in/patrick-skipworth-a87a20145 |
-
-https://www.codewars.com/users/PatSkip
-
-
 <div id="webaddress">
 <a>+44 7497 204905</a>
 <a href="patricksternberg123@gmail.com">patricksternberg123@gmail.com</a>
@@ -18,8 +12,6 @@ https://www.codewars.com/users/PatSkip
 <a href="https://github.com/PatSternberg">GitHub</a>
 <a href="https://www.codewars.com/users/PatSkip">Codewars</a>
 <a href="https://github.com/PatSternberg/markdown-cv.git">See this GitHub repo</a>
-
-
 
 ## Currently
 
