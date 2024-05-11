@@ -21,9 +21,17 @@ Software developer based in London
 
 ## 👀 ABOUT ME
 
-I am a creative and resourceful software developer with a background in web development and creative industries. I have experience in Python, JavaScript, Swift and agile scrum project management, alongside many other commonly used technologies. Building on a previous solid foundational knowledge of web development and project management skills gained from previous roles, I bring a unique blend of technical proficiency and strong communication skills to the table. I am excited to bring these skills to a Software Developer role as I complete my move into tech.
+I am a creative and resourceful software developer with a background in web development and creative industries. I have experience in Python, JavaScript, Swift and Agile scrum project management, alongside many other commonly used technologies. Building on a previous solid foundational knowledge of web development and project management skills gained from previous roles, I bring a unique blend of technical proficiency and strong communication skills to the table. I am excited to bring these skills to a Software Developer role as I complete my move into tech.
 
 ## 💾 PROJECTS
+
+### Fridge Hero
+
+Web application tracking expiry dates and suggesting recipes to users supplied by 3rd-party API
+
+Tech used: Python, Django, Javascript, React, MongoDB, Render
+
+Skills demonstrated: UX design, deployment, Git workflow
 
 ### VenBnB 
 
@@ -65,9 +73,9 @@ Makers, London
 
 Skills Acquired:
 
-Proficiency in Python, JavaScript and Swift: Developed proficiency in Python, JavaScript and Swift through intensive coursework and hands-on projects, such as a password manager application.
+Proficiency in Python, JavaScript and Swift: Developed proficiency in Python, JavaScript and Swift through intensive coursework and hands-on projects, such as a password manager application. Extended my skills with knowledge of popular app frameworks such as Flask, Django and React.
 
-Database management: Learned foundational SQL practices, using Postgresql and psycopg to manipulate a database of property information for a social media application
+Database management: Learned foundational SQL and noSQL practices, using Postgresql and psycopg to manipulate a database of property information for a social media application and MongoDB to track expiry dates of food stored in a user's fridge
 
 Web Development Skills: Acquired skills in frontend and backend web development, including HTML, Flask, Django, Postman, Docker, RDS and SCSS while developing a bookings application.
 
