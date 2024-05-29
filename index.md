@@ -25,13 +25,25 @@ I am a creative and resourceful software developer with a background in web deve
 
 ## 💾 PROJECTS
 
-### Fridge Hero
+### Pictoman
+
+Word guessing game with image clues pulled from Google Images API
+
+Tech: TypeScript, HTML, CSS, Render
+
+Skills demonstrated: 3rd-party APIs, deployment
+
+>Try it at https://pictoman.onrender.com/
+
+### Fridge Wizard
 
 Web application tracking expiry dates and suggesting recipes to users supplied by 3rd-party API
 
 Tech used: Python, Django, Javascript, React, MongoDB, Render
 
 Skills demonstrated: UX design, deployment, Git workflow
+
+>Try it at https://fridgewizard.onrender.com/
 
 ### VenBnB 
 
