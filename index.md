@@ -67,6 +67,16 @@ Skills demonstrated: UX design, deployment, Git workflow
 
 >Try it at https://fridgewizard.onrender.com/
 
+### Harrow Law Centre website
+
+Website redesign with new styling and reactive design adapted for mobile and desktop viewing. Also set up TLS security certificates and staging environment 	 	
+
+Tech: HTML, CSS, JavaScript, TLS
+
+Skills demonstrated: UI/UX design, client communication
+
+> Check it out at https://www.harrowlawcentre.org.uk/
+
 ### VenBnB 
 
 Full stack program for storing and booking properties
